@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+node_modules/
+.env
+
+ml/dataset/
+ml/saved_models/
+ml/extracted_frames/
+ml/extracted_faces/
